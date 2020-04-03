@@ -3,8 +3,8 @@
 *.a
 *.so
 *.svg
-/test-*
+/tmp
+/test*
 /dejson
 /doxygen
-/tmp
 /Readme.md
