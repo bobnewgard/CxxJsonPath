@@ -4,7 +4,8 @@
 *.so
 *.svg
 /tmp
-/test*
+/test2
+/test3
 /dejson
 /doxygen
 /Readme.md
